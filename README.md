@@ -2,14 +2,7 @@
 # Hi there, I'm [Anurag Singh] 👋
 
 I'm a passionate Software Engineer with nearly 2 years of experience in software development. My expertise spans a wide range of technologies and tools, and I enjoy tackling complex challenges and turning ideas into practical solutions.
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- 
 
-
-<br><br><br><br><br><br><br><br>
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 
 <h3 align="center">Languages</h3>
