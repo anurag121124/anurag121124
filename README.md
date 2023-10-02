@@ -6,11 +6,7 @@ I'm a passionate Software Engineer with nearly 2 years of experience in software
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
  
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
-</p>
+
 
 <br><br><br><br><br><br><br><br>
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -203,23 +199,6 @@ I'm a passionate Software Engineer with nearly 2 years of experience in software
 </p>
 <br>
 
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
- </a>
-</p>
-# Want to know more?
 
-<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
-
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
-
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
-
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
-
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
 
 
