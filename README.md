@@ -1,7 +1,7 @@
 
 # Hi there, I'm [Anurag Singh] 👋
 
-I'm a passionate Software Engineer with nearly 2 years of experience in software development. My expertise spans a wide range of technologies and tools, and I enjoy tackling complex challenges and turning ideas into practical solutions.
+I'm a passionate Software Engineer with nearly 3 years of experience in software development. My expertise spans a wide range of technologies and tools, and I enjoy tackling complex challenges and turning ideas into practical solutions.
 
 
 
